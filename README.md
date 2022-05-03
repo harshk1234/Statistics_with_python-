@@ -30,3 +30,16 @@
 ## understand data
 
 ![Screenshot](stat.png)
+
+## Null values oprations and visualise it
+![Screenshot](miss+visualise)
+
+
+## undertand top products
+![Screenshot](top3.png)
+
+
+
+
+## understand data
+
