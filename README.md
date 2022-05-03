@@ -32,7 +32,7 @@
 ![Screenshot](stat.png)
 
 ## Null values oprations and visualise it
-![Screenshot](miss+visualise)
+![Screenshot](miss+visualise.png)
 
 
 ## undertand top products
